@@ -11,4 +11,4 @@ This Script allows you to connect to a Database in a simple way, you just have t
     git clone https://github.com/JheyluisReyes/DatabaseConnection.git
     ```
 
-- Open [databaseconnection.php](databaseconnection.php) in Visual Studio Code to run the Database Connection Script.
+- Open [dbconnection.php](dbconnection.php) in Visual Studio Code to run the Database Connection Script.
